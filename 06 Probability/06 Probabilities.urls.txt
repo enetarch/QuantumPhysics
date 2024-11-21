@@ -1,0 +1,43 @@
+Searches
+
+example demonstrating difference between probability and probability density
+statiscal interpretation
+gaussian distribution
+
+You.com
+is the probability density function in Quantum Mechanics the same as in probability?
+what does the probability density function in general probability mean or is used for?
+what equation produces bell's curve?
+how do I produce bell's curve in XL?
+using Juniper Notebook, how would I draw bell's curve as a graph?
+how would I draw this using JavaScript?
+using javascript, how would I draw bell's curve as a graph?
+how is probability and probility density different?
+what is the conservation of probability in quantum mechanics?
+what is the statistical inpertpretation of wave function in quantum mechanics?
+
+=====
+
+Probability density function
+https://en.wikipedia.org//wiki/Probability_density_function
+
+Probability Density Function
+https://byjus.com/maths/probability-density-function/
+
+Difference between Probability and Probability Density
+https://math.stackexchange.com/questions/521575/difference-between-probability-and-probability-density
+
+Interpreting descriptive statistics
+https://uniskills.library.curtin.edu.au/numeracy/statistics/interpreting/
+
+The Statistical Interpretation of Quantum Mechanics
+https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.42.358
+
+Gaussian Distribution
+https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/gaussian-distribution
+
+Gaussian function
+https://en.wikipedia.org/wiki/Gaussian_function
+
+Normal Distribution: What It Is, Uses, and Formula
+https://www.investopedia.com/terms/n/normaldistribution.asp

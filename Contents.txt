@@ -1,0 +1,515 @@
+Classical Mechanics
+	Measurement
+	Position
+	Momentum
+	Center of Mass
+	Reduce Mass
+	Action Principle
+	Elastic and Inelastic Collisions
+	Physical State
+	Kinetic Energy
+	Potential Energy
+
+Calculus
+	Taylor Series
+	Sequences of Functions
+	Transcendental Equations
+
+Differential Equations
+Linear Algebra
+	Seperation of Variables
+	Scalars
+	Vectors
+	Matrixes
+	Operators
+	Basis
+	Vector Operators
+	Inner Products
+	Identity Matrix
+	Unitary Matrix
+	Unitary Operators
+	Evolution Operator
+	Transformation
+	Rotational Matrix
+	Eigen Values
+	Coefficients
+	Linear Combinations
+	Matrix Elements
+	Delta Sequences
+
+Vectors
+	Basics
+	Derivatives
+	Cartesian
+	Polar Coordinates
+	Cylindrical
+	Spherical
+	LaPlacian
+	Generalized Coordinate Systems
+	
+Waves
+	Components of Equations
+	Versions of the equation
+	Amplitudes
+	Time Dependent
+	Time Independent
+	Position Dependent
+	Complex Waves
+	Standing Waves
+	Nodes
+	AntiNodes
+	Traveling Waves
+	Plane Waves
+	Incident
+	Transmission
+	Reflection
+	Boundary Conditions
+
+Probability
+	Probability
+	Probability Densities
+	Statistical Interpretation
+	Discrete Variables
+	Continious Variables
+	Normalization
+	Probability Distribution
+	Conservation of Probability
+	Contimuum Limit
+	Gaussian Distribution
+
+Classical Mechanics - Revisited
+	Position
+	Momentum
+	Center of Mass
+	Reduce Mass
+	Action Principle
+	Elastic and Inelastic Collisions
+	Physical State
+
+Waves vs Particles
+
+Probability Waves
+
+Quantum Phyics
+	Schroedinger Equation
+	Uncertianty Principle
+	Complex Conjugates
+	Continuity Equation
+
+Quantization Rules
+Heisenburg's Uncertianty Principle
+
+Schroedinger Equation
+	TISE
+	Seperation from Time
+	Stationary States
+	Excited States
+	Even and Odd States
+	Infinite Square Well
+	Harmonic Oscillator
+	Free Particle
+	Kronecker Delta Functions
+	Delta Function Potentials
+	Bound States
+	Finite Square Well
+
+Scattering States
+	Incident Particles
+	Reflected Particles
+	Transmitted Particles
+
+Motion	
+Quantum States
+Group Velocity
+Phase Velocity
+
+Probabilities from Inner Products
+Born Interpretation
+
+Hilbert Space
+Observables
+
+Operators
+	Hermitian Operators
+	
+Determinate States
+Degenerate States
+Non-Degenerate States
+n-Fold Degenerate States
+Symetric States
+State Function
+State of the System
+
+
+Eigen States
+	Eigen States of Position
+	Eigen States of Momentum
+	Eigen States of Zero Uncertianty
+	Eigen Energies 
+	Eigen Energy Values
+	Eigen Energy States
+
+Eigen Functions
+	Required properties
+	
+Eigen Energy States
+	Quantization
+	
+Negative Energy
+Eigen Value Equations
+
+
+
+Energy Gaps
+Band Gaps
+Atomic Spectra
+Discrete Spectra
+Continious Spectra
+Generalized Statistical Interpretation
+
+Atomic Energy States
+
+Sommerfels Model
+The correspondence Principle
+
+Wave Packet
+Minimum Uncertianty
+Energy Time Uncertianty
+
+Bases of Hilbert Space
+Fermi Dirac Notation
+Changing Bases
+
+
+Coordinate Systems
+	Cartesian
+	Cylindrical
+	Spherical - radii, azmithal, angle
+	Angular Equation
+	Radial Equation
+	Hydrogen Atom
+	Radial Wave Equation
+	Spectrum of Hydrogen
+	Angular Momentum
+	Total Angular Momentum
+	Orbital Angular Momentum
+	Angular Momentum Cones
+	Spin
+	Spin 1/2
+	Spin Orbital Interaction Energy
+	Electron in a Magnetic Field
+	ElectroMagnetic Interactions
+	Minimual Coupling
+	Orbital magnetic dipole moments
+
+
+Two particle systems
+	Bosons
+	Fermions
+	Exchange Forces
+	Symmetry
+	Atoms
+	Helium
+	Periodic Table
+	Solids
+	Free Electron Gas
+	Band Structure
+
+Transformations
+	Transformation in Space
+	Translation Operator
+	Translational Symmetry
+	Conservation Laws
+	Conservation of Proability
+	Parity
+	Parity In 1D
+	Parity In 2D
+	Parity In 3D
+	Even Parity
+	Odd Parity
+	Parity selection rules
+	Rotational Symmetry
+	Rotations about the z-axis
+	Rotations in 3D
+	Degeneracy
+	Selection rules for Scalars
+	Translations in time
+	Time Dependent Equations
+	Time Translation Invariance
+	Reflection Symmetry
+	Periodicity
+
+Stern Gerlach experiment
+Dynamic Variables
+Kets, Bras and Operators
+Mutliplication
+
+Measurements
+	Simultantious measurements
+	Compatible Observables
+	Incompatible Observables
+
+Transformation Matrix
+Unitary Equivalent Observables
+Position and Momentum Measurements
+
+Wave Functions in Position and Momentum Space
+Position space wave functions
+momentum operator in position basis
+Momentum Space wave functions
+
+Wave Packets
+	Localized Wave Packets
+	Gaussian Wave Packets
+	Motion of Wave Packets
+
+Potentials
+	Zero Potential
+	Potential Wells
+	Potentials in 1D
+	Potentials in 2D
+	Potentials in 3D
+	Linear Potential
+	Rectangular Potentials
+	Step Potentials
+	Central Potential
+	Bound States
+	UnBound States
+	Scattering States
+	Tunneling
+	Double Well
+	Square Barrier
+	Infinite Square Well Potential
+	Simple Harmonic Oscillator Potential
+	Binding Potentials
+	Non Binding Potentials
+	Forbidden domains
+	Forbidden regions
+	Quantum corral
+	Classically Allowed Regions
+	Classically Forbidden Regions
+	Regions
+
+Landau Levels
+Quantum Hall Effect
+
+Molecular Binding
+
+Quantum Numbers
+	Magnetic
+	Azmithal
+	Principle
+
+Transformations
+	Gauge Transormations
+
+Commutators
+	Commuting Operators
+	Non-Commuting Operators
+
+Commutator Relations of Angular Momentum
+Pauli Exclusion Principle
+	Orbitals
+	Multiplets
+	Excited States
+	Ground State
+	Spherical Bessel equations
+	Spherical Bessel Functions
+	
+Orthonormal 
+Orthogonal 
+Orthogonality 
+
+Polarized and UnPolarized Beams
+Ladder Operators
+Raising and Lowering Operators
+Spherical harmonics
+
+Isotropic Harmonic Oscillator
+Coulomb Potential
+
+
+Identical particles
+Disginguishable particles
+
+Expectation Values
+
+Ehrenfests Theorem
+
+Simple Harmonic Oscillator
+
+Euler Lagrange Equations
+Principle of Least Time
+Principle of Least Action
+Hamilton's Equation
+Hamiltionian Equation
+Classical Mechanics
+
+
+Transition States
+Selection Rules
+
+Coherent State
+
+
+Hydrogen Atom
+	Electron orbital velocity
+	principal quantum number
+	Spectroscopic Notation
+	
+
+=====
+
+
+Common Equations
+	Energy (E) .. KE + V
+	Kenetic Energy (KE) .. KE = 1/2 m v^2
+	Potential Energy (V)
+	Momentum (p) is mass times velocity
+	Force equals mass times acceleration (f = m a)
+	Newtons' Law of Motion 
+	Wave Length (λ) .. λ = h / p
+	
+	Wave number (k) .. 
+		k = 2 PI / λ
+		 = p / h-bar
+		 
+	Frequency (f) .. f = 1 / period
+	Period (T) .. T = 1 / frequency
+	Density (λ) .. mass / volume
+	Reduced Mass (m) .. m = (m1 m2) / (m1 + m2) 
+	Angular momentum (L) 
+	
+	Waves (w) .. 
+		w = A sin (kx - wt + o)
+		w = A exp (i (kx - wt) ) + B exp (-i (kx - wt) )
+	
+	Angular Frequency (w) .. 
+		w = 2 PI f
+		 = E / h-bar
+	
+	
+	Schroedinger's Equation
+		-p^2 [d/dx]^2 w (x, t) + V (x) w (x, t) = i h-bar [d/dt] w(x, t)
+		-p^2 [d/dx]^2 w (x) T (t) + V (x) w (x) T (t) = i h-bar [d/dt] w(x) T (t)
+	
+	Time Dependent Schroedinger Equation
+		[ -p^2 [d/dx]^2 w (x) + V (x) w (x) ] / w (x) = i h-bar [d/dt] T (t) / T (t)
+		
+		E w (x) = -p^2 [d/dx]^2 w (x) + V (x) w (x) 
+		E i h-bar T (t) = [d/dt] T (t)
+		
+	TISE - Time Independent
+		H w = E w
+		H w = -p^2 [d/dx]^2 w (x) + V (x) w (x)
+		H = -p^2 [d/dx]^2 + V (x)
+		
+		-p^2 [d/dx]^2 w (x) + V (x) w (x) = E w (x)
+	
+	
+Conversions
+	Energy / wave length .. 
+		E = h f
+		E [n] = n h f
+		 = (h-bar k[n])^2 / 2m
+		 = (h-bar n PI)^2 / 2m
+		 = sqr (p^2 c^2 + m^2 c^4)
+	
+	Kenetic Energy (KE) 
+		KE = 1/2 m v^2
+		 = p^2 / 2m 
+		 
+	Momentum (p)
+		p = h / λ
+		 = sqr (2 m K)
+		 = E / c
+		 = h f / c
+		
+	Angular momentum .. 
+		p = n h / r, n = [1 .. oo] integers
+		
+	Wave Length .. 
+		λ = h / p
+		 = h r / n (h / 2 PI)
+		 = 2 PI r / n	
+		 = h / sqr (2 m K)
+	
+
+Constants
+	Planks constant (h)
+	Ryberg's constant (R)
+	Avagadro's number (Na)
+	Planks reduced constant (h-bar) .. h-bar = h / 2 PI
+	Speed of light (c)
+	electron mass (me)
+	proton mass (mp)
+	Boltzmanns constant (K)
+	Coulomb's constant
+	Bohr radius
+	Electron Volts to Jules
+	Meter Scale
+	Gravitational Constant is 6.7e-11 m^3 / kg s^2
+	
+
+History of Experiments
+	Light
+		Inteference
+		Defraction
+		Defraction Gratings
+	Black body radiation
+		Planks formula
+	Compton Effect
+	Photo Electric Effect
+	Heisenberg's Microsope
+	Rutherford Planetary Model
+	Bohr Atom
+	de Broglie Waves
+	Double slit experiment
+		Light
+		Electrons
+	Casmir Effect
+	Pair Production
+	Superposition
+	Schroedinger's Cat
+	EPR Paradox
+	
+Examples
+	Tossing a ball into the air
+	Stability of the Atom
+	2 Beads on a wire
+	Plane Pendulum
+	Wave Like Behavior of Electons
+	Constrained movement between two concentric impermable spheres 
+	Rigid Rod 
+	Rigid Rotator
+	Spring Oscillator
+	Balls rolling down Hill
+	Balls Tossed in Air
+	Multiple Pullies and Weights
+	Particle in a Box
+	Particle in a Circle
+	
+	
+Experiments
+	Particle in a Tube
+	Particle in a 2D Box
+	Particle in a 3D Box
+	Simple Harmonic Oscillator
+	Scattering Experiments
+	Diffrraction Experiments
+	Stern Gerlach Experiment
+	Rayleigh Scattering
+	Ramsauer Effect
+	Davisson–Germer experiment
+	
+	
+Theorems
+	Cauchy Schwarz inequality
+	Fourier Transformation
+	Inverse Fourier Transformation
+	Integration by Parts
+	
+Terminology
+	Levi Civita symbol
+	Laplace Runge Lenz vector
+	

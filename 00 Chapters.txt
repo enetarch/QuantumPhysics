@@ -1,0 +1,92 @@
+Part I
+Fundamentals
+1 The classical state
+Baseball, F = ma , and the principle of least action
+Euler–Lagrange and Hamilton’s equations
+Classical mechanics in a nutshell
+The classical state
+
+2 Origins of quantum mechanics
+Black-body radiation
+The photoelectric effect
+The Compton effect
+The Heisenberg microscope
+The Bohr atom
+de Broglie waves
+Measurement
+
+3 The wave-like behavior of electrons
+Wave equation for de Broglie waves
+The double-slit experiment
+Do electrons travel along trajectories?
+Normalization
+
+4 The quantum state
+States of System
+A new representation of motion
+Generalized Coordinates
+Hilbert space
+The Dirac delta function
+Expectation, uncertainty, and the quantum state
+
+5 Dynamics of the quantum state
+Ehrenfest’s principle
+The Schrödinger wave equation
+The time-independent Schrödinger equation
+The free particle
+Gaussian wavepackets
+Group velocity and phase velocity
+The particle in a closed tube
+
+6 Energy and uncertainty
+Energy, Hamiltonian, Angular Momentum
+The expectation value of momentum p
+The Heisenberg uncertainty principle
+The energy of energy eigenstates
+
+7 Operators and observations
+Operators and observables
+Measurements
+Expectation Values
+State Function
+Probabilities from inner products
+The matrix analogy
+Eigenstates as states of zero uncertainty
+The generalized Born interpretation
+The generalized uncertainty principle
+The time–energy uncertainty relation
+
+Part II
+Exact solutions
+8 Rectangular potentials
+A qualitative sketch of energy eigenstates
+Unbound states and quantum scattering
+The step potential
+The finite square well
+Bound states E < 0
+Scattering states E > 0
+Tunneling
+The delta function potential
+
+9 The harmonic oscillator
+Raising and lowering operators
+Algebra and expectation values
+
+10 Symmetry and degeneracy
+The free particle and momentum conservation
+Parity
+The particle in a square
+The quantum corral
+Landau levels
+Complete sets of observables
+
+11 Angular momentum
+The angular momentum commutators
+The eigenvalues of angular momentum
+The angular momentum cones
+Eigenfunctions of angular momentum
+The radial equation for central potentials
+The free particle
+
+12 The hydrogen atom
+The scale of the world

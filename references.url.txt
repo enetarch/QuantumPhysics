@@ -1,0 +1,259 @@
+urls
+
+Physics Education - SDSU, professor Fred Goldberg directs a physics education group
+https://physics.sdsu.edu/physics-education/
+
+
+Search
+linear algebra evolutionary operators
+linerar algebra unitary matrix example
+
+=====
+
+Unitary matrix
+https://en.wikipedia.org/wiki/Unitary_matrix
+
+What is a Unitary Matrix and How to Prove that a Matrix is Unitary? 
+https://www.youtube.com/watch?v=dEr2TTU97t8
+
+Unitary operator
+https://en.wikipedia.org/wiki/Unitary_operator
+
+Hermitian matrix
+https://en.wikipedia.org/wiki/Hermitian_matrix
+
+What is a Hermitian Matrix?
+https://www.youtube.com/watch?v=7HnPWgV-MuE
+
+
+Evolution operator
+https://encyclopediaofmath.org/wiki/Evolution_operator
+
+GENERATION OF LINEAR EVOLUTION OPERATORS
+https://www.ams.org/journals/proc/2000-128-07/S0002-9939-99-05263-6/S0002-9939-99-05263-6.pdf
+
+
+Coefficient matrix
+https://en.wikipedia.org/wiki/Coefficient_matrix
+
+Linear combination
+https://en.wikipedia.org/wiki/Linear_combination
+
+Elements of Matrix
+https://www.cuemath.com/algebra/elements-of-matrix/
+
+=====
+
+Search Terms
+using density, how do I calculate the center of mass?
+equation v = h f
+
+
+Momentum
+https://en.wikipedia.org/wiki/Momentum
+
+Center of Mass
+https://study.com/skill/learn/using-integration-to-calculate-the-center-of-mass-of-a-solid-shape-of-nonuniform-density-explanation.html
+
+Density, Mass, and Center of Mass
+https://math.libretexts.org/Under_Construction/Purgatory/Book%3A_Active_Calculus_(Boelkins_et_al.)/06%3A_Using_Definite_Integrals/6.03%3A_Density_Mass_and_Center_of_Mass
+
+Reduced mass
+https://en.wikipedia.org/wiki/Reduced_mass
+
+Energy of a Photon
+https://www.franklychemistry.co.uk/20to9/snap_tuition/y13/Energy_of_photon.pdf
+
+
+
+=====
+Search
+can the period be described by the wave length over time?
+
+Period of a Wave | Definition & Formula 
+https://study.com/learn/lesson/how-to-find-period-of-a-wave.html
+
+
+
+=====
+
+Bard Q/A
+
+how do I draw a wave form at 552 Hz in XL?
+what equations are important in plane waves?
+describe what a plane wave is, plz.
+
+
+=====
+You.Com Q/A
+
+can you provide examples of complex wave functions?
+how do you use sine functions to describe an audio wave?
+what are the wave boundary conditions for reflection and transmission?
+are there examples of using Fourier Synthesis to generate sound waves?
+what does [dy/dx]^2 represent?
+can you create plane waves using water and barriers?
+uhrm .. what if the waves were created at a point source?
+ok, can you create plane waves in water using a point source?
+how do I draw a wave form at 552  Hz in XL?
+
+
+=====
+
+Wave function
+https://en.wikipedia.org/wiki/Wave_function
+
+Sound for music technology: An introduction
+https://www.open.edu/openlearn/science-maths-technology/engineering-technology/sound-music-technology-an-introduction/content-section-10.3
+
+Fourier Series
+https://www.compadre.org/osp/EJSS/4487/272.htm
+
+
+
+=====
+
+Search
+power energy formula
+
+List of trigonometric identities
+https://en.wikipedia.org/wiki/List_of_trigonometric_identities
+
+Waves and energy – energy transfer
+https://www.sciencelearn.org.nz/resources/2681-waves-and-energy-energy-transfer
+
+Energy Carried by a Wave
+https://byjus.com/physics/energy-carried-by-a-wave/
+
+Energy and Power of a Wave
+https://openstax.org/books/university-physics-volume-1/pages/16-4-energy-and-power-of-a-wave
+
+
+=====
+
+Search
+types of wave equations
+cosine to exponential
+
+
+Euler's formula
+https://en.wikipedia.org/wiki/Euler%27s_formula
+
+List of equations in wave theory
+https://en.wikipedia.org/wiki/List_of_equations_in_wave_theory
+
+Wave equation
+https://en.wikipedia.org/wiki/Wave_equation
+
+Wave Equations
+https://galileo.phys.virginia.edu/classes/252/wave_equations.html
+
+
+
+
+=====
+
+Search
+position dependent wave equation
+what is a Unitarity operator
+
+
+Wave function
+https://en.wikipedia.org/wiki/Wave_function
+
+Schrödinger equation
+https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation
+
+The Time Independent Schrödinger Equation 
+https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Electronics/Introduction_to_Nanoelectronics_(Baldo)/01%3A_The_Quantum_Particle/1.23%3A_The_Time_Independent_Schrodinger_Equation
+
+Unitary operator
+https://en.wikipedia.org/wiki/Unitary_operator
+
+
+=====
+
+Search
+calculate the node positions of a standing wave
+
+Traveling Waves vs. Standing Waves
+https://www.physicsclassroom.com/class/waves/Lesson-4/Traveling-Waves-vs-Standing-Waves
+
+Standing Waves 
+https://phys.libretexts.org/Courses/University_of_California_Davis/UCD%3A_Physics_7C_-_General_Physics/8%3A_Waves/8.8%3A_Standing_Waves
+
+Nodes and Anti-nodes
+https://www.physicsclassroom.com/class/waves/lesson-4/nodes-and-anti-nodes
+
+
+Nodes and Antinodes: System Closed at Both Ends
+https://unacademy.com/content/neet-ug/study-material/physics/nodes-and-antinodes-system-closed-at-both-ends/
+
+Positions of nodes and antinodes 
+https://www.youtube.com/watch?v=X3OV3KuOtUs
+
+=====
+
+Search
+elastic energy potential in waves
+
+
+Elastic energy
+Elastic potential energy in mechanical systems
+https://en.wikipedia.org/wiki/Elastic_energy
+
+
+=====
+
+Search
+Energy Transport / Transmission via waves
+
+How much power is transported by a string wave?
+http://hyperphysics.phy-astr.gsu.edu/hbase/Waves/powstr.html
+
+Waves as energy transfer
+https://www.sciencelearn.org.nz/resources/120-waves-as-energy-transfer
+
+Energy Transported by a Wave 
+https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_Introductory_Physics_-_Building_Models_to_Describe_Our_World_(Martin_Neary_Rinaldo_and_Woodman)/14%3A_Waves/14.05%3A_Energy_Transported_by_a_Wave
+
+Waves & Energy Transfer
+https://study.com/academy/lesson/how-energy-information-is-transferred-by-waves.html
+
+=====
+
+Search
+light incident reflection and transport
+
+Light Transport I: Surface Reflection
+https://pbr-book.org/3ed-2018/Light_Transport_I_Surface_Reflection
+
+The Light Transport Equation
+https://www.pbr-book.org/3ed-2018/Light_Transport_I_Surface_Reflection/The_Light_Transport_Equation
+
+=====
+
+Search
+complex wave forms
+
+Complex Periodic Waveforms
+https://pages.uoregon.edu/emi/10.php
+
+Analyzing Complex Waveforms
+https://www.physicsforums.com/threads/analyzing-complex-waveforms-finding-amplitude-frequency-and-time-period.673627/
+
+=====
+
+Search
+group vs phase velocity
+Angular Frequency (w)
+
+
+Group velocity
+https://en.wikipedia.org/wiki/Group_velocity
+
+wavenumber
+https://www.britannica.com/science/wavenumber
+
+Angular frequency
+https://en.wikipedia.org/wiki/Angular_frequency
